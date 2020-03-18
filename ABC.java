@@ -15,7 +15,7 @@ import com.google.api.*;
 
 public class ABC {
 
-	private String spotify_user_id = "borjapb99";
+	private String spotify_user_id = "";
 	private String spotify_token = "";
 	
 	private static final String CLIENT_SECRETS= "client_secret.json";
