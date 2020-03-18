@@ -16,7 +16,7 @@ import com.google.api.*;
 public class ABC {
 
 	private String spotify_user_id = "borjapb99";
-	private String spotify_token = "BQC0159wlTJJ0T_OR5PYMPPV1Nk4Dsl01TVgd3sQlUePpiiVL-Y5bQb9jxA_DrAKE5S7BtWH4wFhpm0wZ5MK8mlR17vHZSlLrbbj5PBuVvxH3CrsII8rpT58lJ-b6OA9ULEMIOW6SiNvw6JRA6IhqSGJiTHvTwAp_Zl3OV-8KAO74CZz49f3l1xPejiV3pqjKLJsdmBcFEtBO8MH3g";
+	private String spotify_token = "";
 	
 	private static final String CLIENT_SECRETS= "client_secret.json";
     private static final Collection<String> SCOPES =
